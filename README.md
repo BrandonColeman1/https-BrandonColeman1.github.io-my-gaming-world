@@ -1,75 +1,107 @@
-<p align="center">
-  <img src="./gaming-pc.jpg" alt="Brandon D. Coleman Jr. - My Gaming World" width="260">
-</p>
-
 # 🎮 Brandon D. Coleman Jr. | My Gaming World
 
-Welcome to **My Gaming World**, a personal website showcasing my interests in gaming, trucking simulators, roleplay communities, streaming, and web development.
+Welcome to **My Gaming World**, the personal gaming and development website of Brandon D. Coleman Jr. This website showcases my interests in gaming, trucking simulators, FiveM roleplay, streaming, and web development.
+
+🌐 **[Visit My Gaming World](https://brandoncoleman1.github.io/https-BrandonColeman1.github.io-my-gaming-world/)**
 
 ## 🌐 About the Website
 
-This website introduces visitors to my gaming interests, projects, gaming setup, and useful resources.
+My Gaming World is a central place where visitors can learn about my gaming interests, explore my development projects, discover my gaming content, and find links to my online communities and platforms.
 
-### Features
+The website reflects my journey as a gamer, content creator, and aspiring developer while providing visitors with an easy way to explore the projects I work on.
+
+## ✨ Website Features
 
 - 🎨 Modern dark-themed design with neon-inspired colors
-- 🌓 Light and dark theme toggle
+- 🌓 Interactive light and dark theme toggle
 - 📱 Responsive layout for desktop, tablet, and mobile devices
-- 🎮 Gaming sections featuring FiveM and multiplayer communities
+- 🎮 Gaming information and FiveM roleplay content
 - 🚛 American Truck Simulator (ATS) and Euro Truck Simulator 2 (ETS2)
-- 💻 Web development and programming resources
-- 🎥 Gaming and streaming information
-- 🔗 Links to useful gaming and developer websites
+- 💻 Game development projects and programming interests
+- 🛠️ BCGaming roleplay and custom game resources
+- 🚚 BC Truck Works Live Companion project
+- 🎥 Gaming, streaming, and content creation links
+- 🔗 Links to GitHub, Twitch, YouTube, and other useful resources
+- 📂 Organized sections for gaming, projects, community, and learning resources
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
+This website uses the following technologies:
 
-## 📂 Project Structure
+- **HTML5** — Provides the structure and content of the website.
+- **CSS3** — Controls the layout, colors, responsive design, and visual appearance.
+- **JavaScript** — Powers interactive features such as the theme toggle and mobile navigation.
+- **Git and GitHub** — Used for version control and managing the project.
+- **GitHub Pages** — Hosts the website online.
 
-my-gaming-world/
+## 📁 Project Structure
+
+The main project files are organized as follows:
+
+```text
+https-BrandonColeman1.github.io-my-gaming-world/
 ├── index.html
-├── my-gaming-world-logo.jpg
-├── README.md
+├── gaming-pc.jpg
+└── README.md
+```
 
+Additional images, stylesheets, scripts, or other resources may be included as the project grows.
 
 ## 🚀 View the Website
 
-The website is designed to be hosted with GitHub Pages.
+Visit the published website here:
 
-Once GitHub Pages is enabled, visit:
+**[Brandon D. Coleman Jr. | My Gaming World](https://brandoncoleman1.github.io/https-BrandonColeman1.github.io-my-gaming-world/)**
 
-**https://brandoncoleman1.github.io/my-gaming-world/**
+The website is hosted using GitHub Pages. Its published address depends on the repository name and the GitHub Pages configuration.
 
-If your repository uses a different GitHub Pages URL, replace the link above with the published address shown in your repository's Pages settings.
+## 💻 Run the Website Locally
 
-## 🧑‍💻 Run Locally
+You can view the website on your computer without installing additional packages.
 
 1. Clone or download this repository.
-2. Open the project folder.
+2. Open the project folder in Visual Studio Code or another code editor.
 3. Open `index.html` in your web browser.
 
-No build tools or package installation are required.
+Alternatively, use the **Live Server** extension in Visual Studio Code to preview the website while developing.
+
+No build tools or package installation are required for the current HTML, CSS, and JavaScript implementation.
 
 ## 🎯 Project Goals
 
-This project is an opportunity to practice HTML, CSS, and JavaScript while building a personal website that reflects my gaming interests and development journey.
+The goals of My Gaming World are to:
+
+- Practice and improve my HTML, CSS, and JavaScript skills.
+- Build a personal website around my gaming interests.
+- Showcase my gaming, roleplay, and trucking simulator projects.
+- Share my streaming and content creation platforms.
+- Learn more about website design, accessibility, responsiveness, and user experience.
+- Continue expanding my programming and development skills through hands-on projects.
 
 ## 📚 Learning Resources
 
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [GitHub](https://github.com/)
-- [FiveM](https://fivem.net/)
-- [American Truck Simulator](https://americantrucksimulator.com/)
-- [Euro Truck Simulator 2](https://eurotrucksimulator2.com/)
+These websites provide helpful information for learning web development and exploring my gaming interests:
 
-## 👤 Author
+- [MDN Web Docs](https://developer.mozilla.org/) — HTML, CSS, JavaScript, and web development documentation.
+- [GitHub](https://github.com/) — Code hosting and version control.
+- [GitHub Pages Documentation](https://docs.github.com/en/pages) — Information about publishing websites.
+- [FiveM](https://fivem.net/) — Multiplayer roleplay platform.
+- [American Truck Simulator](https://americantrucksimulator.com/) — American trucking simulation.
+- [Euro Truck Simulator 2](https://eurotrucksimulator2.com/) — European trucking simulation.
+
+## 👤 About the Author
 
 **Brandon D. Coleman Jr.**
 
----
+I enjoy gaming, trucking simulators, roleplay communities, content creation, and learning how to build websites and custom gaming resources. My projects allow me to combine these interests while continuing to develop my technical skills.
 
-Thanks for visiting **My Gaming World**! 🎮
+### 🔗 Connect With Me
+
+- **GitHub:** [BrandonColeman1](https://github.com/BrandonColeman1)
+- **Twitch:** [BCGaming1223](https://www.twitch.tv/bcgaming1223)
+- **YouTube:** [ChiefTheBC](https://www.youtube.com/c/THEBCfamily-dispatcher)
+- **BC Truck Works:** [Visit the website]([https://bc-truck-works-live-companion.vercel.app/)
+- **BCGAMING SANDREAS FIVEM Tebex Store:** [Browse the store](https://bcgaming-san-andress.tebex.store/)
+
+
+*Thank you for visiting My Gaming World! This project is an ongoing part of my learning and development journey, and I look forward to continuing to improve it.*

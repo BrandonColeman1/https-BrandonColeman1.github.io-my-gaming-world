@@ -102,7 +102,7 @@ I enjoy gaming, trucking simulators, roleplay communities, streaming, content cr
 - **GitHub:** [BrandonColeman1](https://github.com/BrandonColeman1)
 - **Twitch:** [BCGaming1223](https://www.twitch.tv/bcgaming1223)
 - **YouTube:** [ChiefTheBC](https://www.youtube.com/c/THEBCfamily-dispatcher)
-- **BC Truck Works Live Companion:** (https://bc-truck-works-live-companion.vercel.app/)
+- **bc truck works live companion:** (https://bc-truck-works-live-companion.vercel.app/)
 - **BCGAMING San Andreas FiveM Tebex Store:** [Browse the store](https://bcgaming-san-andress.tebex.store/)
 
 ---
